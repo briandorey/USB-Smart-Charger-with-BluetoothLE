@@ -1,0 +1,71 @@
+Date and Time:  
+Permissions: Read / Write   
+Size:12 bytes   
+Format:YYMMDDHHMMSS  
+Handle: 0018  
+UID: AFF25C609CB411E4A1EB0002A5D5C51B
+
+
+Power Usage in Watts:  
+Permissions: Read   
+Size:8 bytes   
+Format:float Example 0023.56  
+Handle: 001A 
+UUID: C8CECD409CB411E48C610002A5D5C51B
+
+
+Charger Active:  
+Permissions: Read / Write   
+Size:1 byte   
+Format: Boolean  
+Handle: 001C 
+UUID: D72DB2209CB411E4B9C50002A5D5C51B
+
+
+Power Down Voltage:  
+Permissions: Read / Write   
+Size:8 bytes   
+Format: float 
+Example: 12.2  
+Handle: 001E 
+UUID: E7D379C09CB411E4BB320002A5D5C51B
+
+
+Power Up Voltage:  
+Permissions: Read / Write   
+Size:8 bytes   
+Format: float Example: 12.6  
+Handle: 0020 
+UUID: F60004009CB411E4B7C90002A5D5C51B
+
+
+Charging Device VID/PID:  
+Permissions: Read   
+Size:8 bytes   
+Format: uint32  
+Handle: 0022 
+UUID: 02B09CA09CB511E4BC170002A5D5C51B
+
+
+Charging Device Start Time:  
+Permissions: Read   
+Size:12 bytes   
+Format:YYMMDDHHMMSS  
+Handle: 0024 
+UUID: 0FF845209CB511E481C40002A5D5C51B
+
+
+Charging Device Total Charge (Wh):  
+Permissions: Read   
+Size:8 bytes   
+Format:float Example 0423.56  
+Handle: 0026 
+UUID: 21351CA09CB511E48B450002A5D5C51B
+
+
+Charging Device End Time:  
+Permissions: Read   
+Size:12 bytes   
+Format:YYMMDDHHMMSS  
+ID: 0028 
+UUID: 5281A8009CB511E4BE290002A5D5C51B

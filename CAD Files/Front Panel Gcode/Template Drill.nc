@@ -1,0 +1,20 @@
+( Made using CamBam - http://www.cambam.co.uk )
+( front panel 8/2/2015 3:00:00 PM )
+( T11 : 1.0 )
+G21 G90 G64 G40
+G0 Z3.0
+( T11 : 1.0 )
+T11 M6
+( Drill1 )
+G17
+M3 S1000
+G0 X-0.0016 Y12.9954
+G98
+G81 X-0.0016 Y12.9954 Z-10.0 R3.0 F50.0
+G81 Y-0.0047 Z-10.0
+G81 X38.9983 Z-10.0
+G81 Y12.9954 Z-10.0
+G80
+G0 Z3.0
+M5
+M30

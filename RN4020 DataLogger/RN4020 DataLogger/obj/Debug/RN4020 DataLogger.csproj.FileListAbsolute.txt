@@ -1,0 +1,26 @@
+C:\Users\bdore\Desktop\RN4020 DataLogger\RN4020 DataLogger\bin\Debug\RN4020 DataLogger.exe.config
+C:\Users\bdore\Desktop\RN4020 DataLogger\RN4020 DataLogger\obj\Debug\RN4020 DataLogger.csprojResolveAssemblyReference.cache
+C:\Users\bdore\Desktop\RN4020 DataLogger\RN4020 DataLogger\obj\Debug\MainWindow.baml
+C:\Users\bdore\Desktop\RN4020 DataLogger\RN4020 DataLogger\obj\Debug\MainWindow.g.cs
+C:\Users\bdore\Desktop\RN4020 DataLogger\RN4020 DataLogger\obj\Debug\App.g.cs
+C:\Users\bdore\Desktop\RN4020 DataLogger\RN4020 DataLogger\obj\Debug\RN4020 DataLogger_MarkupCompile.cache
+C:\Users\bdore\Desktop\RN4020 DataLogger\RN4020 DataLogger\obj\Debug\RN4020 DataLogger.g.resources
+C:\Users\bdore\Desktop\RN4020 DataLogger\RN4020 DataLogger\obj\Debug\RN4020_DataLogger.Properties.Resources.resources
+C:\Users\bdore\Desktop\RN4020 DataLogger\RN4020 DataLogger\obj\Debug\RN4020 DataLogger.csproj.GenerateResource.Cache
+C:\Users\bdore\Desktop\RN4020 DataLogger\RN4020 DataLogger\bin\Debug\RN4020 DataLogger.exe
+C:\Users\bdore\Desktop\RN4020 DataLogger\RN4020 DataLogger\bin\Debug\RN4020 DataLogger.pdb
+C:\Users\bdore\Desktop\RN4020 DataLogger\RN4020 DataLogger\obj\Debug\RN4020 DataLogger.exe
+C:\Users\bdore\Desktop\RN4020 DataLogger\RN4020 DataLogger\obj\Debug\RN4020 DataLogger.pdb
+D:\Home\USB Chargers\Software\RN4020 DataLogger\RN4020 DataLogger\bin\Debug\RN4020 DataLogger.exe.config
+D:\Home\USB Chargers\Software\RN4020 DataLogger\RN4020 DataLogger\obj\Debug\RN4020 DataLogger.exe
+D:\Home\USB Chargers\Software\RN4020 DataLogger\RN4020 DataLogger\obj\Debug\RN4020 DataLogger.pdb
+D:\Home\USB Chargers\Software\RN4020 DataLogger\RN4020 DataLogger\bin\Debug\RN4020 DataLogger.exe
+D:\Home\USB Chargers\Software\RN4020 DataLogger\RN4020 DataLogger\bin\Debug\RN4020 DataLogger.pdb
+D:\Home\USB Chargers\Software\RN4020 DataLogger\RN4020 DataLogger\obj\Debug\RN4020 DataLogger.csprojResolveAssemblyReference.cache
+D:\Home\USB Chargers\Software\RN4020 DataLogger\RN4020 DataLogger\obj\Debug\MainWindow.baml
+D:\Home\USB Chargers\Software\RN4020 DataLogger\RN4020 DataLogger\obj\Debug\MainWindow.g.cs
+D:\Home\USB Chargers\Software\RN4020 DataLogger\RN4020 DataLogger\obj\Debug\App.g.cs
+D:\Home\USB Chargers\Software\RN4020 DataLogger\RN4020 DataLogger\obj\Debug\RN4020 DataLogger_MarkupCompile.cache
+D:\Home\USB Chargers\Software\RN4020 DataLogger\RN4020 DataLogger\obj\Debug\RN4020 DataLogger.g.resources
+D:\Home\USB Chargers\Software\RN4020 DataLogger\RN4020 DataLogger\obj\Debug\RN4020_DataLogger.Properties.Resources.resources
+D:\Home\USB Chargers\Software\RN4020 DataLogger\RN4020 DataLogger\obj\Debug\RN4020 DataLogger.csproj.GenerateResource.Cache
