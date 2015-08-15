@@ -1,0 +1,24 @@
+USE [HomeDataLog]
+GO
+
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+SET ANSI_PADDING ON
+GO
+
+CREATE TABLE [dbo].[ChargerData](
+	[pkey] [int] IDENTITY(1,1) NOT NULL,
+	[ChargerID] [varchar](25) NULL,
+	[DateStamp] [datetime] NULL,
+	[ChargingPower] [float] NULL,
+	[ChargingTotal] [float] NULL
+) ON [PRIMARY]
+
+GO
+
+SET ANSI_PADDING OFF
+GO
